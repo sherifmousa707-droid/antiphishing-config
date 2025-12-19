@@ -1,0 +1,8 @@
+{
+  "enabled": true,
+  "sequence_length": 256,
+  "phishing_block_margin": 2.0,
+  "phishing_warn_margin": 1.0,
+  "count_stats": true,
+  "show_warning_dialog": true
+}
