@@ -1,0 +1,5 @@
+{
+  "block_ip_hosts": true,
+  "allow_http": true,
+  "block_tlds": [".xyz", ".zip", ".top", ".click"]
+}
